@@ -1,3 +1,5 @@
-# Insurance_project
+# A Korean Legal Judgment Prediction Dataset for Insurance Disputes
 
-Insurance project 코드 개발을 위한 깃허브입니다.
+# Paper
+link : https://arxiv.org/abs/2401.14654
+
